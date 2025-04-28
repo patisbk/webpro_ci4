@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -66,3 +67,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+=======
+# webpro_ci4
+This repository contains a basic starter project based on a module from my university using Code Igniter 4
+>>>>>>> 1d051d0864d4db79b1ce5c7a22a24edbc6905c10
